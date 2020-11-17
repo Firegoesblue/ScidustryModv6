@@ -1,0 +1,19 @@
+localizedName: Universal Mask
+description: Converts any item to a certain item using power.
+size: 1
+breakable: true
+update: true
+category: distribution
+consumes: {
+    power: 0.3
+}
+hasPower: true
+outputsPower: false
+itemCapacity: 1
+requirements: [
+  copper/25
+]
+configurable: true
+sync: true
+insulated: true
+sync: true

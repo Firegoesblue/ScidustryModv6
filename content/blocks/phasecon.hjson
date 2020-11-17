@@ -1,0 +1,18 @@
+type: liquidBridge
+name: PhaseBoost Conduit
+description: Phase Conduit with higher range and speed but lower capacity
+range: 200
+transportTime: 0.0
+liquidCapacity: 1.0
+consumes: {
+  power: 0.3
+}
+requirements: [
+  lead/10
+  graphite/10
+  silicon/7
+  phase-fabric/5
+]
+category: liquid
+insulated: true
+sync: true

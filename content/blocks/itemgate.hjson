@@ -1,0 +1,15 @@
+localizedName: Item Detector (Containing)
+description: Outputs power when there are items in the block.
+size: 1
+breakable: true
+update: true
+category: distribution
+hasPower: true
+consumesPower: false
+itemCapacity: 1
+outputsPower: true
+requirements: [
+  copper/25
+]
+insulated: true
+sync: true

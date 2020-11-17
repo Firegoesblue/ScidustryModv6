@@ -1,0 +1,15 @@
+localizedName: Item Generator
+description: Generates items from power
+size: 1
+breakable: true
+update: true
+configurable: true
+consumes: {
+  power: 0.3
+}
+category: distribution
+requirements: [
+  copper/1
+]
+insulated: true
+sync: true

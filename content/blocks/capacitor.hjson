@@ -1,0 +1,13 @@
+type: battery
+name: Capacitor
+description: Low charge battery
+consumes: {
+  powerBuffered: 1
+}
+requirements: [
+  copper/4
+  lead/20
+]
+category: power
+insulated: true
+sync: true

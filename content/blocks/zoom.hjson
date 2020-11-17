@@ -1,0 +1,13 @@
+type: armoredConveyor
+name: Hyper Armored Conveyor
+description: Armored conveyor with high speed
+itemCapacity: 4
+speed: 0.24
+displayedSpeed: 36
+requirements: [
+  copper/1
+]
+group: transportation
+category: distribution
+insulated: true
+sync: true

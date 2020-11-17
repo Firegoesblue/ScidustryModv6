@@ -1,0 +1,16 @@
+localizedName: JK Flip Flop
+description: Uses two adjacent nodes' power graphs as inputs, and outputs power accordingly. Orange is Reset, Green is Set, trigger both for toggle.
+size: 1
+breakable: true
+update: true
+category: power
+hasPower: true
+consumesPower: false
+outputsPower: true
+requirements: [
+  silicon/25
+]
+insulated: true
+rotate: true
+configurable: true
+sync: true

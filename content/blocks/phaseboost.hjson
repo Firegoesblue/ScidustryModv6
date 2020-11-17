@@ -1,0 +1,18 @@
+type: itemBridge
+name: PhaseBoost Conveyor
+description: Phase Conveyors with higher range and speed but lower capacity
+range: 200
+transportTime: 0.0
+itemCapacity: 1
+consumes: {
+  power: 0.3
+}
+requirements: [
+  lead/10
+  graphite/10
+  silicon/7
+  phase-fabric/5
+]
+category: distribution
+insulated: true
+sync: true
